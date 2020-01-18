@@ -1,2 +1,2 @@
 # PlatziAzureWebapp
-Testing Azure Webapp
+Dotnet app to test Azure Webapp Service
