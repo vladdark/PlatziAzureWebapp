@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\htdocs\\dotnet\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectUniqueName": "C:\\dev\\htdocs\\dotnet\\PlatziAzureWebapp\\PlatziWebsite.csproj",
       "projectName": "PlatziWebsite",
-      "projectPath": "C:\\dev\\htdocs\\dotnet\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectPath": "C:\\dev\\htdocs\\dotnet\\PlatziAzureWebapp\\PlatziWebsite.csproj",
       "packagesPath": "C:\\Users\\RodolfoVladimirCarmo\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\htdocs\\dotnet\\PlatziWebsite\\obj\\",
+      "outputPath": "C:\\dev\\htdocs\\dotnet\\PlatziAzureWebapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

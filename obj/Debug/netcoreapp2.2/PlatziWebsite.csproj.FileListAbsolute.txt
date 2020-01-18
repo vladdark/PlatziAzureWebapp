@@ -1,0 +1,3 @@
+C:\dev\htdocs\dotnet\PlatziAzureWebapp\obj\Debug\netcoreapp2.2\PlatziWebsite.csprojAssemblyReference.cache
+C:\dev\htdocs\dotnet\PlatziAzureWebapp\obj\Debug\netcoreapp2.2\PlatziWebsite.AssemblyInfoInputs.cache
+C:\dev\htdocs\dotnet\PlatziAzureWebapp\obj\Debug\netcoreapp2.2\PlatziWebsite.AssemblyInfo.cs
